@@ -6,7 +6,7 @@
     "stack": "container",
     "env": {
       "Think_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1. ඇල්ෆා qr කේතය යොදන්න.",
+            "description": "Paste your QR session that you got from https://replit.com/@DilshanGothayo/thinkbot-6?v=1. ඇල්ෆා qr කේතය යොදන්න.",
             "required": true
         },
         "BUTTON_CMD": {
