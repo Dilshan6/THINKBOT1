@@ -21,7 +21,7 @@
 </p>
 	
 ### QR CODE
-https://replit.com/@DilshanGothayo/thinkbot-6?v=1
+[!REPLIT] https://replit.com/@DilshanGothayo/thinkbot-6
 ### Deploy Page
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/ALPHA-V4)
 </div>
